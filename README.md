@@ -1,4 +1,4 @@
-# 🌪️ Disaster Damage Dataset – 5-Class Image Dataset for AI
+# 🌪️ Disaster Damage Dataset – 6-Class Image Dataset for AI
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Data%20Ready-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -8,7 +8,7 @@
 
 ## 🧠 About the Dataset
 
-The **Disaster Damage Dataset (5-Class)** is a manually curated image dataset designed for **multi-class disaster recognition using Computer Vision and Deep Learning**.
+The **Disaster Damage Dataset (6-Class)** is a manually curated image dataset designed for **multi-class disaster recognition using Computer Vision and Deep Learning**.
 
 It aims to help researchers, students, and developers train AI models that can **identify and differentiate between real-world disasters** from images — a crucial step toward **automated disaster response, monitoring, and risk assessment systems**.
 

@@ -1,4 +1,4 @@
-#  Disaster Damage Dataset – 6-Class Image Dataset for AI
+#  Disaster Dataset – 6-Class Image Dataset for AI
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Data%20Ready-3776AB?style=for-the-badge&logo=python&logoColor=white)
